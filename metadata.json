@@ -1,0 +1,11 @@
+{
+  "name": "Remix Smart Scheme Recommender",
+  "description": "AI-driven scheme recommender and concessional credit portal - Scheme for your benefit.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
